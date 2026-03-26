@@ -73,7 +73,7 @@ export default async function EquipmentPage({ params }: { params: Promise<{ lang
   const typeName = typeLabels[eq.type][locale]
 
   return (
-    <div className="pt-28 lg:pt-32 pb-20 bg-gray-50 min-h-screen">
+    <div className="pt-32 lg:pt-36 pb-20 bg-gray-50 min-h-screen">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
         <div className="mb-8">

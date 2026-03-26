@@ -128,7 +128,7 @@ export default function Header({ dict, lang }: { dict: Dict; lang: Locale }) {
 
         {/* Mobile Nav */}
         {mobileOpen && (
-          <nav className="lg:hidden py-4 border-t border-gray-100" dir={rtl ? 'rtl' : 'ltr'}>
+          <nav className="lg:hidden py-4 border-t border-gray-100 bg-white" dir={rtl ? 'rtl' : 'ltr'}>
             {navLinks.map((link) => (
               <a
                 key={link.href}

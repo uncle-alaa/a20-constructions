@@ -26,7 +26,7 @@ export default function Hero({ dict, lang }: { dict: Dict; lang: Locale }) {
   ]
 
   return (
-    <section id="home" className="relative min-h-screen flex items-center pt-28 lg:pt-32">
+    <section id="home" className="relative min-h-screen flex items-center pt-32 lg:pt-36">
       {/* Background image overlay */}
       <div className="absolute inset-0 bg-[url('/images/hero-bg.jpg')] bg-cover bg-center bg-no-repeat">
         <div className="absolute inset-0 bg-gradient-to-r from-secondary/80 via-secondary/60 to-secondary/30" />

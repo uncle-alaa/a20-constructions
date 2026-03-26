@@ -19,7 +19,7 @@
     "stat1Label": "سنة في الميدان",
     "stat1Value": "+10",
     "stat2Label": "مضخة خرسانة",
-    "stat2Value": "2",
+    "stat2Value": "3",
     "stat3Label": "شاحنة خلط",
     "stat3Value": "3",
     "stat4Label": "سعة الخلاط",
@@ -35,6 +35,15 @@
       "description": "Zoomlion ZLJ5441THBBE على شاسي Mercedes-Benz Actros. تدفق 180 م3/س ومدى 56 متر — الخيار الأمثل للمشاريع المتوسطة والكبيرة.",
       "specs": {
         "reach": "مدى 56 متر",
+        "type": "مضخة بذراع",
+        "availability": "متوفرة"
+      }
+    },
+    "pump3": {
+      "name": "مضخة بذراع 58 متر",
+      "description": "XCMG Schwing Tech HB56V على شاسي Mercedes-Benz Actros 4143. ذراع 58 متر بتقنية Schwing — متعددة الاستخدامات لكل أنواع المشاريع.",
+      "specs": {
+        "reach": "مدى 58 متر",
         "type": "مضخة بذراع",
         "availability": "متوفرة"
       }

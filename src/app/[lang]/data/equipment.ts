@@ -61,6 +61,43 @@ export const equipment: Equipment[] = [
     },
   },
   {
+    id: 'pump-58m',
+    type: 'pump',
+    brand: 'XCMG',
+    model: 'Schwing Tech HB56V',
+    year: 2020,
+    images: [
+      '/images/pump58-1.jpeg',
+      '/images/pump58-2.jpeg',
+      '/images/pump58-3.jpeg',
+    ],
+    available: true,
+    forSale: false,
+    specs: {
+      fr: {
+        'Marque': 'XCMG (Schwing Tech)',
+        'Modele': 'HB56V',
+        'Portee fleche': '58 m',
+        'Chassis': 'Mercedes-Benz Actros 4143',
+        'Poids total': '44 000 kg',
+      },
+      en: {
+        'Brand': 'XCMG (Schwing Tech)',
+        'Model': 'HB56V',
+        'Boom reach': '58 m',
+        'Chassis': 'Mercedes-Benz Actros 4143',
+        'Gross weight': '44,000 kg',
+      },
+      ar: {
+        'العلامة': 'XCMG (Schwing Tech)',
+        'الموديل': 'HB56V',
+        'مدى الذراع': '58 م',
+        'الشاسي': 'Mercedes-Benz Actros 4143',
+        'الوزن الإجمالي': '44,000 كغ',
+      },
+    },
+  },
+  {
     id: 'pump-62m',
     type: 'pump',
     brand: 'Zoomlion',

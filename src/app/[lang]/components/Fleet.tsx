@@ -10,6 +10,7 @@ type FleetDict = {
     pumps: string
     mixers: string
     pump1: { name: string; description: string; specs: { reach: string; type: string; availability: string } }
+    pump3: { name: string; description: string; specs: { reach: string; type: string; availability: string } }
     pump2: { name: string; description: string; specs: { reach: string; type: string; availability: string } }
     mixer: { name: string; description: string; specs: { capacity: string; count: string; availability: string } }
     requestQuote: string
@@ -68,7 +69,7 @@ function EquipmentCard({
             </span>
           ))}
         </div>
-        <div className="flex gap-3">
+        <div className="flex flex-col sm:flex-row gap-2 sm:gap-3">
           <Link
             href={`/${lang}/fleet/${equipmentId}`}
             className="flex-1 flex items-center justify-center gap-2 border-2 border-primary text-primary hover:bg-primary hover:text-white py-2.5 rounded-full font-semibold transition-colors text-sm"
@@ -117,7 +118,7 @@ export default function Fleet({ dict, lang }: { dict: FleetDict; lang: Locale })
             </span>
             {dict.fleet.pumps}
           </h3>
-          <div className="grid md:grid-cols-2 gap-8">
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <EquipmentCard
               name={dict.fleet.pump1.name}
               description={dict.fleet.pump1.description}
@@ -128,10 +129,19 @@ export default function Fleet({ dict, lang }: { dict: FleetDict; lang: Locale })
               equipmentId="pump-56m"
             />
             <EquipmentCard
+              name={dict.fleet.pump3.name}
+              description={dict.fleet.pump3.description}
+              specs={[dict.fleet.pump3.specs.reach, dict.fleet.pump3.specs.type, dict.fleet.pump3.specs.availability]}
+              imageSrc={pumps[1]?.images[0]}
+              quoteLabel={dict.fleet.requestQuote}
+              lang={lang}
+              equipmentId="pump-58m"
+            />
+            <EquipmentCard
               name={dict.fleet.pump2.name}
               description={dict.fleet.pump2.description}
               specs={[dict.fleet.pump2.specs.reach, dict.fleet.pump2.specs.type, dict.fleet.pump2.specs.availability]}
-              imageSrc={pumps[1]?.images[0]}
+              imageSrc={pumps[2]?.images[0]}
               quoteLabel={dict.fleet.requestQuote}
               lang={lang}
               equipmentId="pump-62m"

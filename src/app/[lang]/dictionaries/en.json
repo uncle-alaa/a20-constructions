@@ -19,7 +19,7 @@
     "stat1Label": "Years in the Industry",
     "stat1Value": "10+",
     "stat2Label": "Boom Pumps",
-    "stat2Value": "2",
+    "stat2Value": "3",
     "stat3Label": "Mixer Trucks",
     "stat3Value": "3",
     "stat4Label": "Mixer Capacity",
@@ -35,6 +35,15 @@
       "description": "Zoomlion ZLJ5441THBBE mounted on a Mercedes-Benz Actros. Delivers 180 m3/h with a 56-meter reach — the workhorse for mid-to-large pours.",
       "specs": {
         "reach": "56m reach",
+        "type": "Truck-mounted boom",
+        "availability": "Available"
+      }
+    },
+    "pump3": {
+      "name": "58m Boom Pump",
+      "description": "XCMG Schwing Tech HB56V on Mercedes-Benz Actros 4143 chassis. 58-meter boom with Schwing technology — a versatile all-rounder for any job site.",
+      "specs": {
+        "reach": "58m reach",
         "type": "Truck-mounted boom",
         "availability": "Available"
       }

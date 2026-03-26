@@ -19,7 +19,7 @@
     "stat1Label": "Ans d'Experience",
     "stat1Value": "10+",
     "stat2Label": "Pompes a Beton",
-    "stat2Value": "2",
+    "stat2Value": "3",
     "stat5Label": "Portee Max",
     "stat5Value": "62m",
     "stat3Label": "Malaxeurs",
@@ -37,6 +37,15 @@
       "description": "Zoomlion ZLJ5441THBBE sur chassis Mercedes-Benz Actros. Fleche de 56 metres, debit de 180 m3/h. Ideale pour les chantiers de moyenne a grande envergure.",
       "specs": {
         "reach": "Portee: 56m",
+        "type": "Pompe a fleche",
+        "availability": "Disponible"
+      }
+    },
+    "pump3": {
+      "name": "Pompe a Beton - Fleche 58m",
+      "description": "XCMG Schwing Tech HB56V sur chassis Mercedes-Benz Actros 4143. Fleche de 58 metres, technologie Schwing. Polyvalente pour tous types de chantiers.",
+      "specs": {
+        "reach": "Portee: 58m",
         "type": "Pompe a fleche",
         "availability": "Disponible"
       }
