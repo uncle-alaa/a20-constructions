@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "title": "A20 Constructions | Location de Pompes et Malaxeurs a Beton au Maroc",
+    "description": "A20 Constructions - Location de pompes a beton et malaxeurs a Casablanca et au Maroc. Plus de 10 ans d'experience dans le secteur du BTP."
+  },
+  "nav": {
+    "home": "Accueil",
+    "fleet": "Notre Flotte",
+    "services": "Services",
+    "about": "A Propos",
+    "contact": "Contact",
+    "quote": "Demander un Devis"
+  },
+  "hero": {
+    "title": "Votre Partenaire Beton au Maroc",
+    "subtitle": "Location de pompes a beton et malaxeurs pour vos chantiers. Flotte moderne, service fiable, disponibilite immediate.",
+    "cta": "Demander un Devis",
+    "ctaSecondary": "Decouvrir Notre Flotte",
+    "stat1Label": "Ans d'Experience",
+    "stat1Value": "10+",
+    "stat2Label": "Pompes a Beton",
+    "stat2Value": "2",
+    "stat5Label": "Portee Max",
+    "stat5Value": "62m",
+    "stat3Label": "Malaxeurs",
+    "stat3Value": "3",
+    "stat4Label": "Capacite Malaxeur",
+    "stat4Value": "15m3"
+  },
+  "fleet": {
+    "title": "Notre Flotte",
+    "subtitle": "Du materiel performant et bien entretenu pour garantir la reussite de vos projets.",
+    "pumps": "Pompes a Beton",
+    "mixers": "Malaxeurs a Beton",
+    "pump1": {
+      "name": "Pompe a Beton - Fleche 56m",
+      "description": "Zoomlion ZLJ5441THBBE sur chassis Mercedes-Benz Actros. Fleche de 56 metres, debit de 180 m3/h. Ideale pour les chantiers de moyenne a grande envergure.",
+      "specs": {
+        "reach": "Portee: 56m",
+        "type": "Pompe a fleche",
+        "availability": "Disponible"
+      }
+    },
+    "pump2": {
+      "name": "Pompe a Beton - Fleche 62m",
+      "description": "Zoomlion ZLJ5441THBBE sur chassis Mercedes-Benz Actros 4143. Fleche de 62 metres pour les projets les plus ambitieux. Portee maximale pour les grands chantiers.",
+      "specs": {
+        "reach": "Portee: 62m",
+        "type": "Pompe a fleche",
+        "availability": "Disponible"
+      }
+    },
+    "mixer": {
+      "name": "Malaxeur a Beton - 15m3",
+      "description": "Malaxeur a beton d'une capacite de 15m3 pour un approvisionnement efficace et continu sur vos chantiers.",
+      "specs": {
+        "capacity": "Capacite: 15m3",
+        "count": "3 unites disponibles",
+        "availability": "Disponible"
+      }
+    },
+    "requestQuote": "Demander un Devis"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions completes pour tous vos besoins en materiel de BTP.",
+    "rental": {
+      "title": "Location de Materiel",
+      "description": "Location journaliere de pompes a beton et malaxeurs. Materiel moderne et bien entretenu, disponible pour vos chantiers a Casablanca et dans tout le Maroc.",
+      "features": [
+        "Location journaliere flexible",
+        "Materiel moderne et entretenu",
+        "Livraison sur chantier",
+        "Support technique inclus"
+      ]
+    },
+    "sales": {
+      "title": "Achat & Vente de Materiel",
+      "description": "Nous proposons a la vente les machines de notre catalogue. Materiel d'occasion en excellent etat, pret a l'emploi.",
+      "features": [
+        "Machines disponibles en stock",
+        "Materiel inspecte et certifie",
+        "Prix competitifs",
+        "Accompagnement a l'achat"
+      ]
+    },
+    "sourcing": {
+      "title": "Sourcing & Importation",
+      "description": "Nous sourcons le materiel dont vous avez besoin aupres de nos fournisseurs internationaux et prenons en charge tout le processus d'importation.",
+      "features": [
+        "Reseau de fournisseurs internationaux",
+        "Dedouanement complet",
+        "Homologation au Maroc",
+        "Accompagnement de A a Z"
+      ]
+    }
+  },
+  "about": {
+    "title": "A Propos de A20 Constructions",
+    "subtitle": "Un partenaire de confiance pour vos projets de construction.",
+    "description": "Fondee en 2025, A20 Constructions est le fruit de plus de 10 ans d'experience dans le secteur du BTP et de l'importation de materiel de construction. Notre equipe possede une expertise approfondie acquise au sein de nos partenaires d'importation, ce qui nous permet de vous offrir un service complet et fiable.",
+    "values": {
+      "experience": {
+        "title": "Experience",
+        "description": "Plus de 10 ans d'expertise dans le materiel BTP et l'importation"
+      },
+      "reliability": {
+        "title": "Fiabilite",
+        "description": "Du materiel entretenu et un service ponctuel pour ne jamais bloquer vos chantiers"
+      },
+      "proximity": {
+        "title": "Proximite",
+        "description": "Bases a Casablanca, nous sommes proches de vos chantiers et reactifs a vos besoins"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Besoin d'un devis ou d'informations? N'hesitez pas a nous contacter.",
+    "phone": "Telephone",
+    "email": "Email",
+    "address": "Adresse",
+    "addressValue": "Casablanca, Maroc",
+    "whatsapp": "Nous contacter sur WhatsApp",
+    "callUs": "Appelez-nous",
+    "emailUs": "Envoyez-nous un email",
+    "available": "Disponible du Lundi au Samedi"
+  },
+  "footer": {
+    "description": "A20 Constructions - Location et vente de pompes a beton et malaxeurs au Maroc.",
+    "quickLinks": "Liens Rapides",
+    "contactInfo": "Contact",
+    "rights": "Tous droits reserves."
+  }
+}

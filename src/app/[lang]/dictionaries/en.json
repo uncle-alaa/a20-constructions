@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "title": "A20 Constructions | Concrete Pump & Mixer Truck Rental in Morocco",
+    "description": "Rent concrete boom pumps (56m & 62m) and 15m3 mixer trucks in Casablanca, Morocco. A20 Constructions brings 10+ years of hands-on industry expertise to every project."
+  },
+  "nav": {
+    "home": "Home",
+    "fleet": "Fleet",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "quote": "Get a Quote"
+  },
+  "hero": {
+    "title": "Concrete Equipment You Can Count On",
+    "subtitle": "Boom pumps up to 62 meters and 15m3 mixer trucks, ready for your next project in Casablanca and across Morocco.",
+    "cta": "Get a Free Quote",
+    "ctaSecondary": "See Our Fleet",
+    "stat1Label": "Years in the Industry",
+    "stat1Value": "10+",
+    "stat2Label": "Boom Pumps",
+    "stat2Value": "2",
+    "stat3Label": "Mixer Trucks",
+    "stat3Value": "3",
+    "stat4Label": "Mixer Capacity",
+    "stat4Value": "15m3"
+  },
+  "fleet": {
+    "title": "Our Fleet",
+    "subtitle": "Well-maintained Zoomlion boom pumps on Mercedes-Benz chassis and heavy-duty mixer trucks, ready to roll.",
+    "pumps": "Concrete Boom Pumps",
+    "mixers": "Mixer Trucks",
+    "pump1": {
+      "name": "56m Boom Pump",
+      "description": "Zoomlion ZLJ5441THBBE mounted on a Mercedes-Benz Actros. Delivers 180 m3/h with a 56-meter reach — the workhorse for mid-to-large pours.",
+      "specs": {
+        "reach": "56m reach",
+        "type": "Truck-mounted boom",
+        "availability": "Available"
+      }
+    },
+    "pump2": {
+      "name": "62m Boom Pump",
+      "description": "Zoomlion ZLJ5441THBBE on a Mercedes-Benz Actros 4143. Our longest-reach pump at 62 meters — built for high-rise and large-footprint jobs.",
+      "specs": {
+        "reach": "62m reach",
+        "type": "Truck-mounted boom",
+        "availability": "Available"
+      }
+    },
+    "mixer": {
+      "name": "15m3 Mixer Truck",
+      "description": "Sitrak mixer trucks fitted with Lin Yu drums. 15 cubic meters per load keeps concrete flowing to your pour without interruption.",
+      "specs": {
+        "capacity": "15m3 per load",
+        "count": "3 trucks in fleet",
+        "availability": "Available"
+      }
+    },
+    "requestQuote": "Get a Quote"
+  },
+  "services": {
+    "title": "What We Do",
+    "subtitle": "From daily rentals to full equipment sourcing — we handle the heavy lifting so you can focus on building.",
+    "rental": {
+      "title": "Equipment Rental",
+      "description": "Need a pump or mixer for a day, a week, or longer? We deliver to your site in Casablanca and anywhere in Morocco, with technical support on standby.",
+      "features": [
+        "Day-rate rental, no long-term lock-in",
+        "Late-model, regularly serviced machines",
+        "Delivered and set up on your site",
+        "On-call technical support"
+      ]
+    },
+    "sales": {
+      "title": "Buy & Sell Equipment",
+      "description": "Looking to own? We sell inspected machines from our own fleet and source quality used equipment from trusted suppliers.",
+      "features": [
+        "In-stock machines ready to go",
+        "Every unit inspected before sale",
+        "Fair, transparent pricing",
+        "We walk you through the purchase"
+      ]
+    },
+    "sourcing": {
+      "title": "Sourcing & Import",
+      "description": "Can't find what you need locally? We source equipment from our international network and manage customs, homologation, and delivery door-to-door.",
+      "features": [
+        "Trusted international supplier network",
+        "Full customs clearance handled",
+        "Moroccan homologation & compliance",
+        "End-to-end, hassle-free process"
+      ]
+    }
+  },
+  "about": {
+    "title": "About A20 Constructions",
+    "subtitle": "Built on experience. Driven by reliability.",
+    "description": "A20 Constructions was founded in 2025, but our roots go back over a decade. Our team cut its teeth working alongside major import partners, learning every step of the supply chain — from sourcing to customs to getting machines job-ready. That experience is what lets us deliver equipment and service you can rely on.",
+    "values": {
+      "experience": {
+        "title": "Deep Know-How",
+        "description": "10+ years working with construction equipment and international imports — we know the machines and the market"
+      },
+      "reliability": {
+        "title": "Zero Downtime",
+        "description": "Our fleet is serviced regularly and we show up on time, every time — because your pour schedule doesn't wait"
+      },
+      "proximity": {
+        "title": "Local Presence",
+        "description": "Based in Casablanca, we're close to your sites and quick to respond when plans change"
+      }
+    }
+  },
+  "contact": {
+    "title": "Let's Talk",
+    "subtitle": "Need a quote, have a question, or want to check availability? Reach out — we respond fast.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Location",
+    "addressValue": "Casablanca, Morocco",
+    "whatsapp": "Message us on WhatsApp",
+    "callUs": "Give us a call",
+    "emailUs": "Drop us an email",
+    "available": "Monday to Saturday"
+  },
+  "footer": {
+    "description": "Concrete pump and mixer truck rental, sales, and sourcing across Morocco.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Get in Touch",
+    "rights": "All rights reserved."
+  }
+}
