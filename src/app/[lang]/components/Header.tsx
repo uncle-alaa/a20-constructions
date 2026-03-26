@@ -77,11 +77,14 @@ export default function Header({ dict, lang }: { dict: Dict; lang: Locale }) {
         <div className="flex items-center justify-between h-20 lg:h-24">
           {/* Logo */}
           <Link href={`/${lang}`} className="flex items-center">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
+            <Image
               src="/images/logo.png"
               alt="A20 Constructions"
+              width={518}
+              height={364}
               className="h-14 sm:h-16 lg:h-18 w-auto"
+              priority
+              unoptimized
             />
           </Link>
 
